@@ -1,0 +1,25 @@
+.navv{
+  background:rgb(217, 238, 225) ;
+
+}
+.rezz {
+  background-color: rgb(40, 42, 53);
+  height: 60px;
+  text-align: center;
+  font-size: 45px;
+  word-spacing: 30px;
+}
+.reen{
+  background:white ;
+}
+.about {
+  background-color: rgb(217, 238, 225);
+}
+.btn {
+  background: rgb(217, 238, 225);
+  text-align: center;
+
+}
+.btn-2 {
+  background-color:green ;
+}
